@@ -21,6 +21,7 @@ My accepted LeetCode solutions in Java and patterns of question.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/harshik0007/DSA/tree/master/0001-two-sum) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/harshik0007/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/harshik0007/DSA/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/harshik0007/DSA/tree/master/0217-contains-duplicate) |
 | [0704-binary-search](https://github.com/harshik0007/DSA/tree/master/0704-binary-search) |
@@ -43,4 +44,8 @@ My accepted LeetCode solutions in Java and patterns of question.
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/harshik0007/DSA/tree/master/0189-rotate-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/harshik0007/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
