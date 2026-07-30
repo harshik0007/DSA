@@ -9,6 +9,7 @@ My accepted LeetCode solutions in Java and patterns of question.
 | [0007-reverse-integer](https://github.com/harshik0007/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/harshik0007/DSA/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/harshik0007/DSA/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/harshik0007/DSA/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/harshik0007/DSA/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/harshik0007/DSA/tree/master/0189-rotate-array) |
 | [0441-arranging-coins](https://github.com/harshik0007/DSA/tree/master/0441-arranging-coins) |
@@ -31,6 +32,7 @@ My accepted LeetCode solutions in Java and patterns of question.
 | [0053-maximum-subarray](https://github.com/harshik0007/DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/harshik0007/DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/harshik0007/DSA/tree/master/0059-spiral-matrix-ii) |
+| [0066-plus-one](https://github.com/harshik0007/DSA/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/harshik0007/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/harshik0007/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/harshik0007/DSA/tree/master/0118-pascals-triangle) |
