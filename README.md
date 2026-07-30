@@ -23,6 +23,7 @@ My accepted LeetCode solutions in Java and patterns of question.
 | [0001-two-sum](https://github.com/harshik0007/DSA/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/harshik0007/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/harshik0007/DSA/tree/master/0042-trapping-rain-water) |
+| [0054-spiral-matrix](https://github.com/harshik0007/DSA/tree/master/0054-spiral-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harshik0007/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/harshik0007/DSA/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/harshik0007/DSA/tree/master/0217-contains-duplicate) |
@@ -66,5 +67,10 @@ My accepted LeetCode solutions in Java and patterns of question.
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/harshik0007/DSA/tree/master/0054-spiral-matrix) |
 | [1929-concatenation-of-array](https://github.com/harshik0007/DSA/tree/master/1929-concatenation-of-array) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/harshik0007/DSA/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
