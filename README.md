@@ -43,6 +43,7 @@ My accepted LeetCode solutions in Java and patterns of question.
 | [1572-matrix-diagonal-sum](https://github.com/harshik0007/DSA/tree/master/1572-matrix-diagonal-sum) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/harshik0007/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/harshik0007/DSA/tree/master/1929-concatenation-of-array) |
+| [2574-left-and-right-sum-differences](https://github.com/harshik0007/DSA/tree/master/2574-left-and-right-sum-differences) |
 ## Hash Table
 |  |
 | ------- |
@@ -117,4 +118,8 @@ My accepted LeetCode solutions in Java and patterns of question.
 | [0125-valid-palindrome](https://github.com/harshik0007/DSA/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/harshik0007/DSA/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/harshik0007/DSA/tree/master/0443-string-compression) |
+## Prefix Sum
+|  |
+| ------- |
+| [2574-left-and-right-sum-differences](https://github.com/harshik0007/DSA/tree/master/2574-left-and-right-sum-differences) |
 <!---LeetCode Topics End-->
