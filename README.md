@@ -27,6 +27,7 @@ My accepted LeetCode solutions in Java and patterns of question.
 | [0054-spiral-matrix](https://github.com/harshik0007/DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/harshik0007/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/harshik0007/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/harshik0007/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/harshik0007/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harshik0007/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/harshik0007/DSA/tree/master/0189-rotate-array) |
@@ -52,6 +53,7 @@ My accepted LeetCode solutions in Java and patterns of question.
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/harshik0007/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/harshik0007/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/harshik0007/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0704-binary-search](https://github.com/harshik0007/DSA/tree/master/0704-binary-search) |
 ## Two Pointers
 |  |
