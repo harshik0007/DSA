@@ -205,4 +205,8 @@ My accepted LeetCode solutions in Java and patterns of question.
 | [0136-single-number](https://github.com/harshik0007/DSA/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/harshik0007/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/harshik0007/DSA/tree/master/0268-missing-number) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/harshik0007/DSA/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
