@@ -11,6 +11,7 @@ My accepted LeetCode solutions in Java and patterns of question.
 | [0013-roman-to-integer](https://github.com/harshik0007/DSA/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/harshik0007/DSA/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/harshik0007/DSA/tree/master/0189-rotate-array) |
+| [0441-arranging-coins](https://github.com/harshik0007/DSA/tree/master/0441-arranging-coins) |
 | [1512-number-of-good-pairs](https://github.com/harshik0007/DSA/tree/master/1512-number-of-good-pairs) |
 | [2652-sum-multiples](https://github.com/harshik0007/DSA/tree/master/2652-sum-multiples) |
 | [3536-maximum-product-of-two-digits](https://github.com/harshik0007/DSA/tree/master/3536-maximum-product-of-two-digits) |
@@ -62,6 +63,7 @@ My accepted LeetCode solutions in Java and patterns of question.
 | [0074-search-a-2d-matrix](https://github.com/harshik0007/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/harshik0007/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/harshik0007/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0441-arranging-coins](https://github.com/harshik0007/DSA/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/harshik0007/DSA/tree/master/0704-binary-search) |
 ## Two Pointers
 |  |
