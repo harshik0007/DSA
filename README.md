@@ -9,6 +9,7 @@ My accepted LeetCode solutions in Java and patterns of question.
 | [0007-reverse-integer](https://github.com/harshik0007/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/harshik0007/DSA/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/harshik0007/DSA/tree/master/0013-roman-to-integer) |
+| [0069-sqrtx](https://github.com/harshik0007/DSA/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/harshik0007/DSA/tree/master/0189-rotate-array) |
 | [1512-number-of-good-pairs](https://github.com/harshik0007/DSA/tree/master/1512-number-of-good-pairs) |
 | [2652-sum-multiples](https://github.com/harshik0007/DSA/tree/master/2652-sum-multiples) |
@@ -57,6 +58,7 @@ My accepted LeetCode solutions in Java and patterns of question.
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/harshik0007/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/harshik0007/DSA/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/harshik0007/DSA/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/harshik0007/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/harshik0007/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/harshik0007/DSA/tree/master/0240-search-a-2d-matrix-ii) |
