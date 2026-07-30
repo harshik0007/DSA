@@ -12,6 +12,7 @@ My accepted LeetCode solutions in Java and patterns of question.
 | [0066-plus-one](https://github.com/harshik0007/DSA/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/harshik0007/DSA/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/harshik0007/DSA/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/harshik0007/DSA/tree/master/0268-missing-number) |
 | [0441-arranging-coins](https://github.com/harshik0007/DSA/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/harshik0007/DSA/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/harshik0007/DSA/tree/master/0509-fibonacci-number) |
@@ -24,6 +25,7 @@ My accepted LeetCode solutions in Java and patterns of question.
 | [0169-majority-element](https://github.com/harshik0007/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/harshik0007/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/harshik0007/DSA/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/harshik0007/DSA/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/harshik0007/DSA/tree/master/0414-third-maximum-number) |
 | [3536-maximum-product-of-two-digits](https://github.com/harshik0007/DSA/tree/master/3536-maximum-product-of-two-digits) |
 ## Array
@@ -48,6 +50,7 @@ My accepted LeetCode solutions in Java and patterns of question.
 | [0189-rotate-array](https://github.com/harshik0007/DSA/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/harshik0007/DSA/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/harshik0007/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/harshik0007/DSA/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/harshik0007/DSA/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/harshik0007/DSA/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/harshik0007/DSA/tree/master/0704-binary-search) |
@@ -69,6 +72,7 @@ My accepted LeetCode solutions in Java and patterns of question.
 | [0169-majority-element](https://github.com/harshik0007/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/harshik0007/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/harshik0007/DSA/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/harshik0007/DSA/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/harshik0007/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [1512-number-of-good-pairs](https://github.com/harshik0007/DSA/tree/master/1512-number-of-good-pairs) |
 ## Counting
@@ -87,6 +91,7 @@ My accepted LeetCode solutions in Java and patterns of question.
 | [0074-search-a-2d-matrix](https://github.com/harshik0007/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/harshik0007/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/harshik0007/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/harshik0007/DSA/tree/master/0268-missing-number) |
 | [0441-arranging-coins](https://github.com/harshik0007/DSA/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/harshik0007/DSA/tree/master/0704-binary-search) |
 ## Two Pointers
@@ -181,4 +186,8 @@ My accepted LeetCode solutions in Java and patterns of question.
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/harshik0007/DSA/tree/master/0509-fibonacci-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/harshik0007/DSA/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
