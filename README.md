@@ -15,6 +15,7 @@ My accepted LeetCode solutions in Java and patterns of question.
 | [0189-rotate-array](https://github.com/harshik0007/DSA/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/harshik0007/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/harshik0007/DSA/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/harshik0007/DSA/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/harshik0007/DSA/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/harshik0007/DSA/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/harshik0007/DSA/tree/master/0507-perfect-number) |
@@ -196,6 +197,7 @@ My accepted LeetCode solutions in Java and patterns of question.
 | ------- |
 | [0050-powx-n](https://github.com/harshik0007/DSA/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/harshik0007/DSA/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/harshik0007/DSA/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/harshik0007/DSA/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -207,6 +209,7 @@ My accepted LeetCode solutions in Java and patterns of question.
 | [0136-single-number](https://github.com/harshik0007/DSA/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/harshik0007/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/harshik0007/DSA/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/harshik0007/DSA/tree/master/0342-power-of-four) |
 ## Database
 |  |
 | ------- |
