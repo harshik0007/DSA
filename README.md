@@ -63,6 +63,7 @@ My accepted LeetCode solutions in Java and patterns of question.
 | [0042-trapping-rain-water](https://github.com/harshik0007/DSA/tree/master/0042-trapping-rain-water) |
 | [0189-rotate-array](https://github.com/harshik0007/DSA/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/harshik0007/DSA/tree/master/0344-reverse-string) |
+| [0443-string-compression](https://github.com/harshik0007/DSA/tree/master/0443-string-compression) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -103,4 +104,5 @@ My accepted LeetCode solutions in Java and patterns of question.
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/harshik0007/DSA/tree/master/0344-reverse-string) |
+| [0443-string-compression](https://github.com/harshik0007/DSA/tree/master/0443-string-compression) |
 <!---LeetCode Topics End-->
