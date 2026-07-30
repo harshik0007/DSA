@@ -8,6 +8,7 @@ My accepted LeetCode solutions in Java and patterns of question.
 | ------- |
 | [0007-reverse-integer](https://github.com/harshik0007/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/harshik0007/DSA/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/harshik0007/DSA/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/harshik0007/DSA/tree/master/0189-rotate-array) |
 | [1512-number-of-good-pairs](https://github.com/harshik0007/DSA/tree/master/1512-number-of-good-pairs) |
 | [2652-sum-multiples](https://github.com/harshik0007/DSA/tree/master/2652-sum-multiples) |
@@ -44,6 +45,7 @@ My accepted LeetCode solutions in Java and patterns of question.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/harshik0007/DSA/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/harshik0007/DSA/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/harshik0007/DSA/tree/master/0217-contains-duplicate) |
 | [1512-number-of-good-pairs](https://github.com/harshik0007/DSA/tree/master/1512-number-of-good-pairs) |
 ## Counting
@@ -106,6 +108,7 @@ My accepted LeetCode solutions in Java and patterns of question.
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/harshik0007/DSA/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/harshik0007/DSA/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/harshik0007/DSA/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/harshik0007/DSA/tree/master/0344-reverse-string) |
