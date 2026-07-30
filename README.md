@@ -50,6 +50,7 @@ My accepted LeetCode solutions in Java and patterns of question.
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/harshik0007/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/harshik0007/DSA/tree/master/1929-concatenation-of-array) |
 | [2574-left-and-right-sum-differences](https://github.com/harshik0007/DSA/tree/master/2574-left-and-right-sum-differences) |
+| [3838-weighted-word-mapping](https://github.com/harshik0007/DSA/tree/master/3838-weighted-word-mapping) |
 ## Hash Table
 |  |
 | ------- |
@@ -108,6 +109,7 @@ My accepted LeetCode solutions in Java and patterns of question.
 | [0059-spiral-matrix-ii](https://github.com/harshik0007/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/harshik0007/DSA/tree/master/0867-transpose-matrix) |
 | [1929-concatenation-of-array](https://github.com/harshik0007/DSA/tree/master/1929-concatenation-of-array) |
+| [3838-weighted-word-mapping](https://github.com/harshik0007/DSA/tree/master/3838-weighted-word-mapping) |
 ## Matrix
 |  |
 | ------- |
@@ -133,6 +135,7 @@ My accepted LeetCode solutions in Java and patterns of question.
 | [0344-reverse-string](https://github.com/harshik0007/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/harshik0007/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/harshik0007/DSA/tree/master/0443-string-compression) |
+| [3838-weighted-word-mapping](https://github.com/harshik0007/DSA/tree/master/3838-weighted-word-mapping) |
 ## Prefix Sum
 |  |
 | ------- |
