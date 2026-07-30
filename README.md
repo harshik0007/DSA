@@ -103,6 +103,7 @@ My accepted LeetCode solutions in Java and patterns of question.
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/harshik0007/DSA/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/harshik0007/DSA/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/harshik0007/DSA/tree/master/0443-string-compression) |
 <!---LeetCode Topics End-->
