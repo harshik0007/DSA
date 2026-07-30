@@ -62,6 +62,7 @@ My accepted LeetCode solutions in Java and patterns of question.
 | ------- |
 | [0042-trapping-rain-water](https://github.com/harshik0007/DSA/tree/master/0042-trapping-rain-water) |
 | [0189-rotate-array](https://github.com/harshik0007/DSA/tree/master/0189-rotate-array) |
+| [0344-reverse-string](https://github.com/harshik0007/DSA/tree/master/0344-reverse-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -98,4 +99,8 @@ My accepted LeetCode solutions in Java and patterns of question.
 | ------- |
 | [0053-maximum-subarray](https://github.com/harshik0007/DSA/tree/master/0053-maximum-subarray) |
 | [0240-search-a-2d-matrix-ii](https://github.com/harshik0007/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/harshik0007/DSA/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
