@@ -135,6 +135,7 @@ My accepted LeetCode solutions in Java and patterns of question.
 | [0344-reverse-string](https://github.com/harshik0007/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/harshik0007/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/harshik0007/DSA/tree/master/0443-string-compression) |
+| [0520-detect-capital](https://github.com/harshik0007/DSA/tree/master/0520-detect-capital) |
 | [3838-weighted-word-mapping](https://github.com/harshik0007/DSA/tree/master/3838-weighted-word-mapping) |
 ## Prefix Sum
 |  |
