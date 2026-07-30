@@ -15,6 +15,7 @@ My accepted LeetCode solutions in Java and patterns of question.
 | [0189-rotate-array](https://github.com/harshik0007/DSA/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/harshik0007/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/harshik0007/DSA/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/harshik0007/DSA/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/harshik0007/DSA/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/harshik0007/DSA/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/harshik0007/DSA/tree/master/0509-fibonacci-number) |
@@ -100,6 +101,7 @@ My accepted LeetCode solutions in Java and patterns of question.
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/harshik0007/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/harshik0007/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/harshik0007/DSA/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/harshik0007/DSA/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/harshik0007/DSA/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/harshik0007/DSA/tree/master/0704-binary-search) |
 ## Two Pointers
