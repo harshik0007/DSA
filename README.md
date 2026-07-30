@@ -8,6 +8,7 @@ My accepted LeetCode solutions in Java and patterns of question.
 | ------- |
 | [0007-reverse-integer](https://github.com/harshik0007/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/harshik0007/DSA/tree/master/0009-palindrome-number) |
+| [0189-rotate-array](https://github.com/harshik0007/DSA/tree/master/0189-rotate-array) |
 | [1512-number-of-good-pairs](https://github.com/harshik0007/DSA/tree/master/1512-number-of-good-pairs) |
 | [2652-sum-multiples](https://github.com/harshik0007/DSA/tree/master/2652-sum-multiples) |
 | [3536-maximum-product-of-two-digits](https://github.com/harshik0007/DSA/tree/master/3536-maximum-product-of-two-digits) |
@@ -19,6 +20,7 @@ My accepted LeetCode solutions in Java and patterns of question.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/harshik0007/DSA/tree/master/0001-two-sum) |
+| [0189-rotate-array](https://github.com/harshik0007/DSA/tree/master/0189-rotate-array) |
 | [0704-binary-search](https://github.com/harshik0007/DSA/tree/master/0704-binary-search) |
 | [1512-number-of-good-pairs](https://github.com/harshik0007/DSA/tree/master/1512-number-of-good-pairs) |
 ## Hash Table
@@ -34,4 +36,8 @@ My accepted LeetCode solutions in Java and patterns of question.
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/harshik0007/DSA/tree/master/0704-binary-search) |
+## Two Pointers
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/harshik0007/DSA/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
