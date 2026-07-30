@@ -15,10 +15,12 @@ My accepted LeetCode solutions in Java and patterns of question.
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/harshik0007/DSA/tree/master/0001-two-sum) |
 | [1512-number-of-good-pairs](https://github.com/harshik0007/DSA/tree/master/1512-number-of-good-pairs) |
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/harshik0007/DSA/tree/master/0001-two-sum) |
 | [1512-number-of-good-pairs](https://github.com/harshik0007/DSA/tree/master/1512-number-of-good-pairs) |
 ## Counting
 |  |
