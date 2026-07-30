@@ -84,6 +84,7 @@ My accepted LeetCode solutions in Java and patterns of question.
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/harshik0007/DSA/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/harshik0007/DSA/tree/master/0042-trapping-rain-water) |
 ## Monotonic Stack
 |  |
@@ -114,6 +115,7 @@ My accepted LeetCode solutions in Java and patterns of question.
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/harshik0007/DSA/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/harshik0007/DSA/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/harshik0007/DSA/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/harshik0007/DSA/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/harshik0007/DSA/tree/master/0344-reverse-string) |
