@@ -67,11 +67,13 @@ My accepted LeetCode solutions in Java and patterns of question.
 | [0169-majority-element](https://github.com/harshik0007/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/harshik0007/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/harshik0007/DSA/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/harshik0007/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [1512-number-of-good-pairs](https://github.com/harshik0007/DSA/tree/master/1512-number-of-good-pairs) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/harshik0007/DSA/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/harshik0007/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [1512-number-of-good-pairs](https://github.com/harshik0007/DSA/tree/master/1512-number-of-good-pairs) |
 ## Binary Search
 |  |
@@ -146,6 +148,7 @@ My accepted LeetCode solutions in Java and patterns of question.
 | [0242-valid-anagram](https://github.com/harshik0007/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/harshik0007/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/harshik0007/DSA/tree/master/0345-reverse-vowels-of-a-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/harshik0007/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0443-string-compression](https://github.com/harshik0007/DSA/tree/master/0443-string-compression) |
 | [0520-detect-capital](https://github.com/harshik0007/DSA/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/harshik0007/DSA/tree/master/0541-reverse-string-ii) |
@@ -156,4 +159,8 @@ My accepted LeetCode solutions in Java and patterns of question.
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/harshik0007/DSA/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/harshik0007/DSA/tree/master/2574-left-and-right-sum-differences) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/harshik0007/DSA/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
