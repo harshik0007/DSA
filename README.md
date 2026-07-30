@@ -19,6 +19,7 @@ My accepted LeetCode solutions in Java and patterns of question.
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/harshik0007/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/harshik0007/DSA/tree/master/0217-contains-duplicate) |
 | [3536-maximum-product-of-two-digits](https://github.com/harshik0007/DSA/tree/master/3536-maximum-product-of-two-digits) |
 ## Array
@@ -38,6 +39,7 @@ My accepted LeetCode solutions in Java and patterns of question.
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/harshik0007/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/harshik0007/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harshik0007/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/harshik0007/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/harshik0007/DSA/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/harshik0007/DSA/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/harshik0007/DSA/tree/master/0240-search-a-2d-matrix-ii) |
@@ -53,11 +55,13 @@ My accepted LeetCode solutions in Java and patterns of question.
 | ------- |
 | [0001-two-sum](https://github.com/harshik0007/DSA/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/harshik0007/DSA/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/harshik0007/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/harshik0007/DSA/tree/master/0217-contains-duplicate) |
 | [1512-number-of-good-pairs](https://github.com/harshik0007/DSA/tree/master/1512-number-of-good-pairs) |
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/harshik0007/DSA/tree/master/0169-majority-element) |
 | [1512-number-of-good-pairs](https://github.com/harshik0007/DSA/tree/master/1512-number-of-good-pairs) |
 ## Binary Search
 |  |
@@ -116,6 +120,7 @@ My accepted LeetCode solutions in Java and patterns of question.
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/harshik0007/DSA/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/harshik0007/DSA/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/harshik0007/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 ## String
 |  |
