@@ -19,6 +19,7 @@ My accepted LeetCode solutions in Java and patterns of question.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/harshik0007/DSA/tree/master/0001-two-sum) |
+| [0704-binary-search](https://github.com/harshik0007/DSA/tree/master/0704-binary-search) |
 | [1512-number-of-good-pairs](https://github.com/harshik0007/DSA/tree/master/1512-number-of-good-pairs) |
 ## Hash Table
 |  |
@@ -29,4 +30,8 @@ My accepted LeetCode solutions in Java and patterns of question.
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/harshik0007/DSA/tree/master/1512-number-of-good-pairs) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/harshik0007/DSA/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
