@@ -67,6 +67,7 @@ My accepted LeetCode solutions in Java and patterns of question.
 | [1929-concatenation-of-array](https://github.com/harshik0007/DSA/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/harshik0007/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/harshik0007/DSA/tree/master/2085-count-common-words-with-one-occurrence) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/harshik0007/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2574-left-and-right-sum-differences](https://github.com/harshik0007/DSA/tree/master/2574-left-and-right-sum-differences) |
 | [3838-weighted-word-mapping](https://github.com/harshik0007/DSA/tree/master/3838-weighted-word-mapping) |
 ## Hash Table
@@ -172,6 +173,7 @@ My accepted LeetCode solutions in Java and patterns of question.
 | [0541-reverse-string-ii](https://github.com/harshik0007/DSA/tree/master/0541-reverse-string-ii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/harshik0007/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/harshik0007/DSA/tree/master/2085-count-common-words-with-one-occurrence) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/harshik0007/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3612-process-string-with-special-operations-i](https://github.com/harshik0007/DSA/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/harshik0007/DSA/tree/master/3838-weighted-word-mapping) |
 ## Prefix Sum
