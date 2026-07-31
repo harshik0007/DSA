@@ -26,6 +26,7 @@ My accepted LeetCode solutions in Java and patterns of question.
 | [0509-fibonacci-number](https://github.com/harshik0007/DSA/tree/master/0509-fibonacci-number) |
 | [0728-self-dividing-numbers](https://github.com/harshik0007/DSA/tree/master/0728-self-dividing-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/harshik0007/DSA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/harshik0007/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1486-xor-operation-in-an-array](https://github.com/harshik0007/DSA/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/harshik0007/DSA/tree/master/1512-number-of-good-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/harshik0007/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -77,6 +78,7 @@ My accepted LeetCode solutions in Java and patterns of question.
 | [0867-transpose-matrix](https://github.com/harshik0007/DSA/tree/master/0867-transpose-matrix) |
 | [0896-monotonic-array](https://github.com/harshik0007/DSA/tree/master/0896-monotonic-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/harshik0007/DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/harshik0007/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/harshik0007/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/harshik0007/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/harshik0007/DSA/tree/master/1470-shuffle-the-array) |
