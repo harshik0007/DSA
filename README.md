@@ -99,6 +99,7 @@ My accepted LeetCode solutions in Java and patterns of question.
 | [0268-missing-number](https://github.com/harshik0007/DSA/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/harshik0007/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/harshik0007/DSA/tree/master/0389-find-the-difference) |
+| [0771-jewels-and-stones](https://github.com/harshik0007/DSA/tree/master/0771-jewels-and-stones) |
 | [1512-number-of-good-pairs](https://github.com/harshik0007/DSA/tree/master/1512-number-of-good-pairs) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/harshik0007/DSA/tree/master/2085-count-common-words-with-one-occurrence) |
 ## Counting
@@ -205,6 +206,7 @@ My accepted LeetCode solutions in Java and patterns of question.
 | [0541-reverse-string-ii](https://github.com/harshik0007/DSA/tree/master/0541-reverse-string-ii) |
 | [0551-student-attendance-record-i](https://github.com/harshik0007/DSA/tree/master/0551-student-attendance-record-i) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/harshik0007/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0771-jewels-and-stones](https://github.com/harshik0007/DSA/tree/master/0771-jewels-and-stones) |
 | [1773-count-items-matching-a-rule](https://github.com/harshik0007/DSA/tree/master/1773-count-items-matching-a-rule) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/harshik0007/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/harshik0007/DSA/tree/master/2085-count-common-words-with-one-occurrence) |
