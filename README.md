@@ -76,6 +76,7 @@ My accepted LeetCode solutions in Java and patterns of question.
 | [0704-binary-search](https://github.com/harshik0007/DSA/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/harshik0007/DSA/tree/master/0867-transpose-matrix) |
 | [0896-monotonic-array](https://github.com/harshik0007/DSA/tree/master/0896-monotonic-array) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/harshik0007/DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/harshik0007/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/harshik0007/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/harshik0007/DSA/tree/master/1470-shuffle-the-array) |
@@ -106,6 +107,7 @@ My accepted LeetCode solutions in Java and patterns of question.
 | [0387-first-unique-character-in-a-string](https://github.com/harshik0007/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/harshik0007/DSA/tree/master/0389-find-the-difference) |
 | [0771-jewels-and-stones](https://github.com/harshik0007/DSA/tree/master/0771-jewels-and-stones) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/harshik0007/DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1512-number-of-good-pairs](https://github.com/harshik0007/DSA/tree/master/1512-number-of-good-pairs) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/harshik0007/DSA/tree/master/2085-count-common-words-with-one-occurrence) |
 ## Counting
