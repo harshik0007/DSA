@@ -129,6 +129,7 @@ My accepted LeetCode solutions in Java and patterns of question.
 | [0345-reverse-vowels-of-a-string](https://github.com/harshik0007/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/harshik0007/DSA/tree/master/0443-string-compression) |
 | [0541-reverse-string-ii](https://github.com/harshik0007/DSA/tree/master/0541-reverse-string-ii) |
+| [0557-reverse-words-in-a-string-iii](https://github.com/harshik0007/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/harshik0007/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Dynamic Programming
 |  |
@@ -190,6 +191,7 @@ My accepted LeetCode solutions in Java and patterns of question.
 | [0520-detect-capital](https://github.com/harshik0007/DSA/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/harshik0007/DSA/tree/master/0541-reverse-string-ii) |
 | [0551-student-attendance-record-i](https://github.com/harshik0007/DSA/tree/master/0551-student-attendance-record-i) |
+| [0557-reverse-words-in-a-string-iii](https://github.com/harshik0007/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1773-count-items-matching-a-rule](https://github.com/harshik0007/DSA/tree/master/1773-count-items-matching-a-rule) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/harshik0007/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/harshik0007/DSA/tree/master/2085-count-common-words-with-one-occurrence) |
