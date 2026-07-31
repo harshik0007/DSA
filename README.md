@@ -25,6 +25,7 @@ My accepted LeetCode solutions in Java and patterns of question.
 | [1512-number-of-good-pairs](https://github.com/harshik0007/DSA/tree/master/1512-number-of-good-pairs) |
 | [2652-sum-multiples](https://github.com/harshik0007/DSA/tree/master/2652-sum-multiples) |
 | [3536-maximum-product-of-two-digits](https://github.com/harshik0007/DSA/tree/master/3536-maximum-product-of-two-digits) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/harshik0007/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Sorting
 |  |
 | ------- |
