@@ -19,6 +19,7 @@ My accepted LeetCode solutions in Java and patterns of question.
 | [0326-power-of-three](https://github.com/harshik0007/DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/harshik0007/DSA/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/harshik0007/DSA/tree/master/0367-valid-perfect-square) |
+| [0412-fizz-buzz](https://github.com/harshik0007/DSA/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/harshik0007/DSA/tree/master/0441-arranging-coins) |
 | [0504-base-7](https://github.com/harshik0007/DSA/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/harshik0007/DSA/tree/master/0507-perfect-number) |
@@ -170,6 +171,7 @@ My accepted LeetCode solutions in Java and patterns of question.
 | [0054-spiral-matrix](https://github.com/harshik0007/DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/harshik0007/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0258-add-digits](https://github.com/harshik0007/DSA/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/harshik0007/DSA/tree/master/0412-fizz-buzz) |
 | [0867-transpose-matrix](https://github.com/harshik0007/DSA/tree/master/0867-transpose-matrix) |
 | [1929-concatenation-of-array](https://github.com/harshik0007/DSA/tree/master/1929-concatenation-of-array) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/harshik0007/DSA/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
@@ -205,6 +207,7 @@ My accepted LeetCode solutions in Java and patterns of question.
 | [0345-reverse-vowels-of-a-string](https://github.com/harshik0007/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/harshik0007/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/harshik0007/DSA/tree/master/0389-find-the-difference) |
+| [0412-fizz-buzz](https://github.com/harshik0007/DSA/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/harshik0007/DSA/tree/master/0443-string-compression) |
 | [0504-base-7](https://github.com/harshik0007/DSA/tree/master/0504-base-7) |
 | [0520-detect-capital](https://github.com/harshik0007/DSA/tree/master/0520-detect-capital) |
