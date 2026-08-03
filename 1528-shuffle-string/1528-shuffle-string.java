@@ -5,10 +5,6 @@ class Solution {
             c[indices[i]] = s.charAt(i);
         }
         
-        StringBuilder sb = new StringBuilder("");
-        for(int i = 0; i < c.length; i++){
-            sb.append(c[i]);
-        }
-        return sb.toString();
+        return new String(c);
     }
 }
