@@ -85,6 +85,7 @@ My accepted LeetCode solutions in Java and patterns of question.
 | [1470-shuffle-the-array](https://github.com/harshik0007/DSA/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/harshik0007/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/harshik0007/DSA/tree/master/1512-number-of-good-pairs) |
+| [1528-shuffle-string](https://github.com/harshik0007/DSA/tree/master/1528-shuffle-string) |
 | [1539-kth-missing-positive-number](https://github.com/harshik0007/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1572-matrix-diagonal-sum](https://github.com/harshik0007/DSA/tree/master/1572-matrix-diagonal-sum) |
 | [1732-find-the-highest-altitude](https://github.com/harshik0007/DSA/tree/master/1732-find-the-highest-altitude) |
@@ -228,6 +229,7 @@ My accepted LeetCode solutions in Java and patterns of question.
 | [0557-reverse-words-in-a-string-iii](https://github.com/harshik0007/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0709-to-lower-case](https://github.com/harshik0007/DSA/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/harshik0007/DSA/tree/master/0771-jewels-and-stones) |
+| [1528-shuffle-string](https://github.com/harshik0007/DSA/tree/master/1528-shuffle-string) |
 | [1678-goal-parser-interpretation](https://github.com/harshik0007/DSA/tree/master/1678-goal-parser-interpretation) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/harshik0007/DSA/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1768-merge-strings-alternately](https://github.com/harshik0007/DSA/tree/master/1768-merge-strings-alternately) |
