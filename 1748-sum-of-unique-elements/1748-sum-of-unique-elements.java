@@ -1,24 +1,22 @@
 class Solution {
     public int sumOfUnique(int[] nums) {
+        if(nums.length == 1){
+            return nums[0];
+        }
         int sum = 0;
-        for (int i = 0; i < nums.length; i++) {
-            int count = 1;
-            for (int j = i - 1; j >= 0; j--) {
-                if (nums[i] == nums[j]) {
-                    count++;
-                    break;
-                }
+        Arrays.sort(nums);
+        for(int i = 1; i < nums.length-1; i++){
+            if(nums[i] != nums[i-1] && nums[i] != nums[i+1]){
+                sum+= nums[i];
             }
-            for (int k = i + 1; k < nums.length; k++) {
-                if (nums[i] == nums[k]) {
-                    count++;
-                    break;
-                }
-            }
+        }
 
-            if (count == 1) {
-                sum += nums[i];
-            }
+        if(nums.length > 1 && nums[0] != nums[1]){
+            sum += nums[0];
+        } 
+
+        if(nums.length > 1 && nums[nums.length-1] != nums[nums.length-2] ){
+            sum += nums[nums.length-1];
         }
         return sum;
     }
