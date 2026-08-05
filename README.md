@@ -9,6 +9,7 @@ My accepted LeetCode solutions in Java and patterns of question.
 | [0007-reverse-integer](https://github.com/harshik0007/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/harshik0007/DSA/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/harshik0007/DSA/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/harshik0007/DSA/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/harshik0007/DSA/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/harshik0007/DSA/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/harshik0007/DSA/tree/master/0069-sqrtx) |
@@ -59,6 +60,7 @@ My accepted LeetCode solutions in Java and patterns of question.
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/harshik0007/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/harshik0007/DSA/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/harshik0007/DSA/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/harshik0007/DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/harshik0007/DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/harshik0007/DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/harshik0007/DSA/tree/master/0059-spiral-matrix-ii) |
@@ -199,6 +201,7 @@ My accepted LeetCode solutions in Java and patterns of question.
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/harshik0007/DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/harshik0007/DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/harshik0007/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/harshik0007/DSA/tree/master/0074-search-a-2d-matrix) |
