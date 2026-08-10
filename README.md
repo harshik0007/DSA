@@ -28,6 +28,7 @@ My accepted LeetCode solutions in Java and patterns of question.
 | [0728-self-dividing-numbers](https://github.com/harshik0007/DSA/tree/master/0728-self-dividing-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/harshik0007/DSA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/harshik0007/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1390-four-divisors](https://github.com/harshik0007/DSA/tree/master/1390-four-divisors) |
 | [1486-xor-operation-in-an-array](https://github.com/harshik0007/DSA/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/harshik0007/DSA/tree/master/1512-number-of-good-pairs) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/harshik0007/DSA/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -92,6 +93,7 @@ My accepted LeetCode solutions in Java and patterns of question.
 | [0977-squares-of-a-sorted-array](https://github.com/harshik0007/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/harshik0007/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/harshik0007/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1390-four-divisors](https://github.com/harshik0007/DSA/tree/master/1390-four-divisors) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/harshik0007/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/harshik0007/DSA/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/harshik0007/DSA/tree/master/1480-running-sum-of-1d-array) |
@@ -328,4 +330,12 @@ My accepted LeetCode solutions in Java and patterns of question.
 |  |
 | ------- |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/harshik0007/DSA/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
+## Prime Factorization
+|  |
+| ------- |
+| [1390-four-divisors](https://github.com/harshik0007/DSA/tree/master/1390-four-divisors) |
+## Sieve Theory
+|  |
+| ------- |
+| [1390-four-divisors](https://github.com/harshik0007/DSA/tree/master/1390-four-divisors) |
 <!---LeetCode Topics End-->
