@@ -49,6 +49,7 @@ My accepted LeetCode solutions in Java and patterns of question.
 | [0349-intersection-of-two-arrays](https://github.com/harshik0007/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/harshik0007/DSA/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/harshik0007/DSA/tree/master/0414-third-maximum-number) |
+| [0977-squares-of-a-sorted-array](https://github.com/harshik0007/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/harshik0007/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/harshik0007/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3536-maximum-product-of-two-digits](https://github.com/harshik0007/DSA/tree/master/3536-maximum-product-of-two-digits) |
@@ -86,6 +87,7 @@ My accepted LeetCode solutions in Java and patterns of question.
 | [0867-transpose-matrix](https://github.com/harshik0007/DSA/tree/master/0867-transpose-matrix) |
 | [0896-monotonic-array](https://github.com/harshik0007/DSA/tree/master/0896-monotonic-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/harshik0007/DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/harshik0007/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/harshik0007/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/harshik0007/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/harshik0007/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -173,6 +175,7 @@ My accepted LeetCode solutions in Java and patterns of question.
 | [0443-string-compression](https://github.com/harshik0007/DSA/tree/master/0443-string-compression) |
 | [0541-reverse-string-ii](https://github.com/harshik0007/DSA/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/harshik0007/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0977-squares-of-a-sorted-array](https://github.com/harshik0007/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/harshik0007/DSA/tree/master/1768-merge-strings-alternately) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/harshik0007/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Dynamic Programming
