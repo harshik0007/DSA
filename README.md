@@ -42,6 +42,7 @@ My accepted LeetCode solutions in Java and patterns of question.
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/harshik0007/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/harshik0007/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/harshik0007/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/harshik0007/DSA/tree/master/0242-valid-anagram) |
@@ -71,6 +72,7 @@ My accepted LeetCode solutions in Java and patterns of question.
 | [0066-plus-one](https://github.com/harshik0007/DSA/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/harshik0007/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/harshik0007/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/harshik0007/DSA/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/harshik0007/DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/harshik0007/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harshik0007/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -167,6 +169,7 @@ My accepted LeetCode solutions in Java and patterns of question.
 | [0027-remove-element](https://github.com/harshik0007/DSA/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/harshik0007/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/harshik0007/DSA/tree/master/0042-trapping-rain-water) |
+| [0088-merge-sorted-array](https://github.com/harshik0007/DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/harshik0007/DSA/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/harshik0007/DSA/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/harshik0007/DSA/tree/master/0344-reverse-string) |
