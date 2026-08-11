@@ -52,6 +52,7 @@ My accepted LeetCode solutions in Java and patterns of question.
 | [0389-find-the-difference](https://github.com/harshik0007/DSA/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/harshik0007/DSA/tree/master/0414-third-maximum-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/harshik0007/DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/harshik0007/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/harshik0007/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/harshik0007/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3536-maximum-product-of-two-digits](https://github.com/harshik0007/DSA/tree/master/3536-maximum-product-of-two-digits) |
@@ -93,6 +94,7 @@ My accepted LeetCode solutions in Java and patterns of question.
 | [0977-squares-of-a-sorted-array](https://github.com/harshik0007/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/harshik0007/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/harshik0007/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/harshik0007/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1390-four-divisors](https://github.com/harshik0007/DSA/tree/master/1390-four-divisors) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/harshik0007/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/harshik0007/DSA/tree/master/1470-shuffle-the-array) |
@@ -133,6 +135,7 @@ My accepted LeetCode solutions in Java and patterns of question.
 | [0389-find-the-difference](https://github.com/harshik0007/DSA/tree/master/0389-find-the-difference) |
 | [0771-jewels-and-stones](https://github.com/harshik0007/DSA/tree/master/0771-jewels-and-stones) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/harshik0007/DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/harshik0007/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/harshik0007/DSA/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/harshik0007/DSA/tree/master/1748-sum-of-unique-elements) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/harshik0007/DSA/tree/master/2085-count-common-words-with-one-occurrence) |
@@ -338,4 +341,8 @@ My accepted LeetCode solutions in Java and patterns of question.
 |  |
 | ------- |
 | [1390-four-divisors](https://github.com/harshik0007/DSA/tree/master/1390-four-divisors) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/harshik0007/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
