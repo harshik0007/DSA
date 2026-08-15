@@ -43,6 +43,7 @@ My accepted LeetCode solutions in Java and patterns of question.
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/harshik0007/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/harshik0007/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/harshik0007/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/harshik0007/DSA/tree/master/0217-contains-duplicate) |
@@ -75,6 +76,7 @@ My accepted LeetCode solutions in Java and patterns of question.
 | [0059-spiral-matrix-ii](https://github.com/harshik0007/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/harshik0007/DSA/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/harshik0007/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/harshik0007/DSA/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/harshik0007/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/harshik0007/DSA/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/harshik0007/DSA/tree/master/0118-pascals-triangle) |
@@ -181,6 +183,7 @@ My accepted LeetCode solutions in Java and patterns of question.
 | [0027-remove-element](https://github.com/harshik0007/DSA/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/harshik0007/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/harshik0007/DSA/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/harshik0007/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/harshik0007/DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/harshik0007/DSA/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/harshik0007/DSA/tree/master/0189-rotate-array) |
@@ -358,9 +361,11 @@ My accepted LeetCode solutions in Java and patterns of question.
 ## Quicksort
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/harshik0007/DSA/tree/master/0075-sort-colors) |
 | [1122-relative-sort-array](https://github.com/harshik0007/DSA/tree/master/1122-relative-sort-array) |
 ## Bubble Sort
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/harshik0007/DSA/tree/master/0075-sort-colors) |
 | [1122-relative-sort-array](https://github.com/harshik0007/DSA/tree/master/1122-relative-sort-array) |
 <!---LeetCode Topics End-->
