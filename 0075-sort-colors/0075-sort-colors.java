@@ -8,10 +8,11 @@ class Solution {
         
         int count = 0;
         for(int i = 0; i < colorSort.length; i++){
-            while(colorSort[i] > 0){
+            int ele = colorSort[i];
+            while(ele > 0){
                 nums[count] = i;
                 count++;
-                colorSort[i]--; 
+                ele--; 
             }
         }
 
