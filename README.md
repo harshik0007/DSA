@@ -14,6 +14,7 @@ My accepted LeetCode solutions in Java and patterns of question.
 | [0066-plus-one](https://github.com/harshik0007/DSA/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/harshik0007/DSA/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/harshik0007/DSA/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/harshik0007/DSA/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/harshik0007/DSA/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/harshik0007/DSA/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/harshik0007/DSA/tree/master/0268-missing-number) |
@@ -134,6 +135,7 @@ My accepted LeetCode solutions in Java and patterns of question.
 | [0001-two-sum](https://github.com/harshik0007/DSA/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/harshik0007/DSA/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/harshik0007/DSA/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/harshik0007/DSA/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/harshik0007/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/harshik0007/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/harshik0007/DSA/tree/master/0268-missing-number) |
@@ -190,6 +192,7 @@ My accepted LeetCode solutions in Java and patterns of question.
 | [0125-valid-palindrome](https://github.com/harshik0007/DSA/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harshik0007/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/harshik0007/DSA/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/harshik0007/DSA/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/harshik0007/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/harshik0007/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/harshik0007/DSA/tree/master/0349-intersection-of-two-arrays) |
@@ -371,4 +374,8 @@ My accepted LeetCode solutions in Java and patterns of question.
 | ------- |
 | [0075-sort-colors](https://github.com/harshik0007/DSA/tree/master/0075-sort-colors) |
 | [1122-relative-sort-array](https://github.com/harshik0007/DSA/tree/master/1122-relative-sort-array) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/harshik0007/DSA/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
