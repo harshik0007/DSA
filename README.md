@@ -277,6 +277,7 @@ My accepted LeetCode solutions in Java and patterns of question.
 | [0557-reverse-words-in-a-string-iii](https://github.com/harshik0007/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0709-to-lower-case](https://github.com/harshik0007/DSA/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/harshik0007/DSA/tree/master/0771-jewels-and-stones) |
+| [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/harshik0007/DSA/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
 | [1528-shuffle-string](https://github.com/harshik0007/DSA/tree/master/1528-shuffle-string) |
 | [1678-goal-parser-interpretation](https://github.com/harshik0007/DSA/tree/master/1678-goal-parser-interpretation) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/harshik0007/DSA/tree/master/1704-determine-if-string-halves-are-alike) |
