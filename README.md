@@ -126,6 +126,7 @@ My accepted LeetCode solutions in Java and patterns of question.
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/harshik0007/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2574-left-and-right-sum-differences](https://github.com/harshik0007/DSA/tree/master/2574-left-and-right-sum-differences) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/harshik0007/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/harshik0007/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/harshik0007/DSA/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/harshik0007/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/harshik0007/DSA/tree/master/3731-find-missing-elements) |
@@ -234,6 +235,7 @@ My accepted LeetCode solutions in Java and patterns of question.
 | [0867-transpose-matrix](https://github.com/harshik0007/DSA/tree/master/0867-transpose-matrix) |
 | [1929-concatenation-of-array](https://github.com/harshik0007/DSA/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/harshik0007/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/harshik0007/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/harshik0007/DSA/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/harshik0007/DSA/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/harshik0007/DSA/tree/master/3838-weighted-word-mapping) |
