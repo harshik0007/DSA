@@ -85,6 +85,7 @@ My accepted LeetCode solutions in Java and patterns of question.
 | [0119-pascals-triangle-ii](https://github.com/harshik0007/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harshik0007/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/harshik0007/DSA/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/harshik0007/DSA/tree/master/0137-single-number-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harshik0007/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/harshik0007/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/harshik0007/DSA/tree/master/0189-rotate-array) |
@@ -327,6 +328,7 @@ My accepted LeetCode solutions in Java and patterns of question.
 |  |
 | ------- |
 | [0136-single-number](https://github.com/harshik0007/DSA/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/harshik0007/DSA/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/harshik0007/DSA/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/harshik0007/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/harshik0007/DSA/tree/master/0268-missing-number) |
