@@ -92,6 +92,7 @@ My accepted LeetCode solutions in Java and patterns of question.
 | [0189-rotate-array](https://github.com/harshik0007/DSA/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/harshik0007/DSA/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/harshik0007/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0260-single-number-iii](https://github.com/harshik0007/DSA/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/harshik0007/DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/harshik0007/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/harshik0007/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -332,6 +333,7 @@ My accepted LeetCode solutions in Java and patterns of question.
 | [0137-single-number-ii](https://github.com/harshik0007/DSA/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/harshik0007/DSA/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/harshik0007/DSA/tree/master/0231-power-of-two) |
+| [0260-single-number-iii](https://github.com/harshik0007/DSA/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/harshik0007/DSA/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/harshik0007/DSA/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/harshik0007/DSA/tree/master/0342-power-of-four) |
