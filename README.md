@@ -185,6 +185,7 @@ My accepted LeetCode solutions in Java and patterns of question.
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harshik0007/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/harshik0007/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/harshik0007/DSA/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/harshik0007/DSA/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/harshik0007/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/harshik0007/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/harshik0007/DSA/tree/master/0367-valid-perfect-square) |
@@ -405,4 +406,8 @@ My accepted LeetCode solutions in Java and patterns of question.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/harshik0007/DSA/tree/master/0169-majority-element) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/harshik0007/DSA/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
