@@ -112,6 +112,7 @@ My accepted LeetCode solutions in Java and patterns of question.
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/harshik0007/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/harshik0007/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1390-four-divisors](https://github.com/harshik0007/DSA/tree/master/1390-four-divisors) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/harshik0007/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/harshik0007/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/harshik0007/DSA/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/harshik0007/DSA/tree/master/1480-running-sum-of-1d-array) |
@@ -159,6 +160,7 @@ My accepted LeetCode solutions in Java and patterns of question.
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/harshik0007/DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1122-relative-sort-array](https://github.com/harshik0007/DSA/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/harshik0007/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/harshik0007/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/harshik0007/DSA/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/harshik0007/DSA/tree/master/1748-sum-of-unique-elements) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/harshik0007/DSA/tree/master/2085-count-common-words-with-one-occurrence) |
@@ -171,6 +173,7 @@ My accepted LeetCode solutions in Java and patterns of question.
 | ------- |
 | [0169-majority-element](https://github.com/harshik0007/DSA/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/harshik0007/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/harshik0007/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/harshik0007/DSA/tree/master/1512-number-of-good-pairs) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/harshik0007/DSA/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1748-sum-of-unique-elements](https://github.com/harshik0007/DSA/tree/master/1748-sum-of-unique-elements) |
