@@ -128,6 +128,7 @@ My accepted LeetCode solutions in Java and patterns of question.
 | [1748-sum-of-unique-elements](https://github.com/harshik0007/DSA/tree/master/1748-sum-of-unique-elements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/harshik0007/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1773-count-items-matching-a-rule](https://github.com/harshik0007/DSA/tree/master/1773-count-items-matching-a-rule) |
+| [1816-truncate-sentence](https://github.com/harshik0007/DSA/tree/master/1816-truncate-sentence) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/harshik0007/DSA/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/harshik0007/DSA/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1920-build-array-from-permutation](https://github.com/harshik0007/DSA/tree/master/1920-build-array-from-permutation) |
@@ -314,6 +315,7 @@ My accepted LeetCode solutions in Java and patterns of question.
 | [1704-determine-if-string-halves-are-alike](https://github.com/harshik0007/DSA/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1768-merge-strings-alternately](https://github.com/harshik0007/DSA/tree/master/1768-merge-strings-alternately) |
 | [1773-count-items-matching-a-rule](https://github.com/harshik0007/DSA/tree/master/1773-count-items-matching-a-rule) |
+| [1816-truncate-sentence](https://github.com/harshik0007/DSA/tree/master/1816-truncate-sentence) |
 | [1844-replace-all-digits-with-characters](https://github.com/harshik0007/DSA/tree/master/1844-replace-all-digits-with-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/harshik0007/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/harshik0007/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
