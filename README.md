@@ -37,6 +37,7 @@ My accepted LeetCode solutions in Java and patterns of question.
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/harshik0007/DSA/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/harshik0007/DSA/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1837-sum-of-digits-in-base-k](https://github.com/harshik0007/DSA/tree/master/1837-sum-of-digits-in-base-k) |
+| [1903-largest-odd-number-in-string](https://github.com/harshik0007/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/harshik0007/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/harshik0007/DSA/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/harshik0007/DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -323,6 +324,7 @@ My accepted LeetCode solutions in Java and patterns of question.
 | [1773-count-items-matching-a-rule](https://github.com/harshik0007/DSA/tree/master/1773-count-items-matching-a-rule) |
 | [1816-truncate-sentence](https://github.com/harshik0007/DSA/tree/master/1816-truncate-sentence) |
 | [1844-replace-all-digits-with-characters](https://github.com/harshik0007/DSA/tree/master/1844-replace-all-digits-with-characters) |
+| [1903-largest-odd-number-in-string](https://github.com/harshik0007/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/harshik0007/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/harshik0007/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/harshik0007/DSA/tree/master/2085-count-common-words-with-one-occurrence) |
@@ -399,6 +401,7 @@ My accepted LeetCode solutions in Java and patterns of question.
 |  |
 | ------- |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/harshik0007/DSA/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
+| [1903-largest-odd-number-in-string](https://github.com/harshik0007/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Prime Factorization
 |  |
 | ------- |
