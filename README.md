@@ -63,6 +63,7 @@ My accepted LeetCode solutions in Java and patterns of question.
 | [0350-intersection-of-two-arrays-ii](https://github.com/harshik0007/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/harshik0007/DSA/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/harshik0007/DSA/tree/master/0414-third-maximum-number) |
+| [0912-sort-an-array](https://github.com/harshik0007/DSA/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/harshik0007/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/harshik0007/DSA/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/harshik0007/DSA/tree/master/1122-relative-sort-array) |
@@ -112,6 +113,7 @@ My accepted LeetCode solutions in Java and patterns of question.
 | [0704-binary-search](https://github.com/harshik0007/DSA/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/harshik0007/DSA/tree/master/0867-transpose-matrix) |
 | [0896-monotonic-array](https://github.com/harshik0007/DSA/tree/master/0896-monotonic-array) |
+| [0912-sort-an-array](https://github.com/harshik0007/DSA/tree/master/0912-sort-an-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/harshik0007/DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/harshik0007/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/harshik0007/DSA/tree/master/1051-height-checker) |
@@ -297,6 +299,7 @@ My accepted LeetCode solutions in Java and patterns of question.
 | [0169-majority-element](https://github.com/harshik0007/DSA/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/harshik0007/DSA/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/harshik0007/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0912-sort-an-array](https://github.com/harshik0007/DSA/tree/master/0912-sort-an-array) |
 ## String
 |  |
 | ------- |
@@ -396,6 +399,7 @@ My accepted LeetCode solutions in Java and patterns of question.
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/harshik0007/DSA/tree/master/0912-sort-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/harshik0007/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/harshik0007/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/harshik0007/DSA/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
@@ -422,6 +426,7 @@ My accepted LeetCode solutions in Java and patterns of question.
 ## Counting Sort
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/harshik0007/DSA/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/harshik0007/DSA/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/harshik0007/DSA/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/harshik0007/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -448,4 +453,16 @@ My accepted LeetCode solutions in Java and patterns of question.
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/harshik0007/DSA/tree/master/0278-first-bad-version) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/harshik0007/DSA/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/harshik0007/DSA/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/harshik0007/DSA/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
