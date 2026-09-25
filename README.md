@@ -246,6 +246,7 @@ My accepted LeetCode solutions in Java and patterns of question.
 | [0977-squares-of-a-sorted-array](https://github.com/harshik0007/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/harshik0007/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1768-merge-strings-alternately](https://github.com/harshik0007/DSA/tree/master/1768-merge-strings-alternately) |
+| [2000-reverse-prefix-of-word](https://github.com/harshik0007/DSA/tree/master/2000-reverse-prefix-of-word) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/harshik0007/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Dynamic Programming
 |  |
@@ -262,6 +263,7 @@ My accepted LeetCode solutions in Java and patterns of question.
 | ------- |
 | [0020-valid-parentheses](https://github.com/harshik0007/DSA/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/harshik0007/DSA/tree/master/0042-trapping-rain-water) |
+| [2000-reverse-prefix-of-word](https://github.com/harshik0007/DSA/tree/master/2000-reverse-prefix-of-word) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -336,6 +338,7 @@ My accepted LeetCode solutions in Java and patterns of question.
 | [1844-replace-all-digits-with-characters](https://github.com/harshik0007/DSA/tree/master/1844-replace-all-digits-with-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/harshik0007/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/harshik0007/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2000-reverse-prefix-of-word](https://github.com/harshik0007/DSA/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/harshik0007/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/harshik0007/DSA/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/harshik0007/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
