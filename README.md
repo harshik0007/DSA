@@ -15,6 +15,7 @@ My accepted LeetCode solutions in Java and patterns of question.
 | [0069-sqrtx](https://github.com/harshik0007/DSA/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/harshik0007/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/harshik0007/DSA/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/harshik0007/DSA/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/harshik0007/DSA/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/harshik0007/DSA/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/harshik0007/DSA/tree/master/0268-missing-number) |
@@ -106,6 +107,7 @@ My accepted LeetCode solutions in Java and patterns of question.
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harshik0007/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/harshik0007/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/harshik0007/DSA/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/harshik0007/DSA/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/harshik0007/DSA/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/harshik0007/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/harshik0007/DSA/tree/master/0260-single-number-iii) |
@@ -402,6 +404,7 @@ My accepted LeetCode solutions in Java and patterns of question.
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/harshik0007/DSA/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/harshik0007/DSA/tree/master/0258-add-digits) |
 | [1492-the-kth-factor-of-n](https://github.com/harshik0007/DSA/tree/master/1492-the-kth-factor-of-n) |
 | [1952-three-divisors](https://github.com/harshik0007/DSA/tree/master/1952-three-divisors) |
@@ -417,6 +420,7 @@ My accepted LeetCode solutions in Java and patterns of question.
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/harshik0007/DSA/tree/master/0204-count-primes) |
 | [1952-three-divisors](https://github.com/harshik0007/DSA/tree/master/1952-three-divisors) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/harshik0007/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Greedy
@@ -433,6 +437,7 @@ My accepted LeetCode solutions in Java and patterns of question.
 ## Sieve Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/harshik0007/DSA/tree/master/0204-count-primes) |
 | [1390-four-divisors](https://github.com/harshik0007/DSA/tree/master/1390-four-divisors) |
 | [1952-three-divisors](https://github.com/harshik0007/DSA/tree/master/1952-three-divisors) |
 ## Counting Sort
@@ -477,4 +482,12 @@ My accepted LeetCode solutions in Java and patterns of question.
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/harshik0007/DSA/tree/master/0912-sort-an-array) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/harshik0007/DSA/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/harshik0007/DSA/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
