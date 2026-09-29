@@ -3,15 +3,22 @@ class Solution {
         boolean arr[] = new boolean[n + 1];
         Arrays.fill(arr, true);
         int count_p = 0;
-        for (int i = 2; i < n; i++) {
+        for (int i = 2; i * i < n; i++) {
             if (arr[i]) {
-                count_p++;
-                for (int j = i * 2; j <= n; j = j + i) {
+                for (int j = i * i; j < n; j = j + i) {
                     arr[j] = false;
                 }
             }
-
         }
+
+        for (int j = 2; j < n; j++) {
+            if (arr[j]) {
+                count_p++;
+            }
+        }
+
         return count_p;
     }
 }
+
+
