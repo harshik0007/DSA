@@ -163,6 +163,7 @@ My accepted LeetCode solutions in Java and patterns of question.
 | [2574-left-and-right-sum-differences](https://github.com/harshik0007/DSA/tree/master/2574-left-and-right-sum-differences) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/harshik0007/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/harshik0007/DSA/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
+| [2942-find-words-containing-character](https://github.com/harshik0007/DSA/tree/master/2942-find-words-containing-character) |
 | [2965-find-missing-and-repeated-values](https://github.com/harshik0007/DSA/tree/master/2965-find-missing-and-repeated-values) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/harshik0007/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/harshik0007/DSA/tree/master/3232-find-if-digit-game-can-be-won) |
@@ -355,6 +356,7 @@ My accepted LeetCode solutions in Java and patterns of question.
 | [2085-count-common-words-with-one-occurrence](https://github.com/harshik0007/DSA/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/harshik0007/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/harshik0007/DSA/tree/master/2124-check-if-all-as-appears-before-all-bs) |
+| [2942-find-words-containing-character](https://github.com/harshik0007/DSA/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/harshik0007/DSA/tree/master/3110-score-of-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/harshik0007/DSA/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/harshik0007/DSA/tree/master/3838-weighted-word-mapping) |
