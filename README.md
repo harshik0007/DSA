@@ -81,6 +81,7 @@ My accepted LeetCode solutions in Java and patterns of question.
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/harshik0007/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/harshik0007/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/harshik0007/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2974-minimum-number-game](https://github.com/harshik0007/DSA/tree/master/2974-minimum-number-game) |
 | [3536-maximum-product-of-two-digits](https://github.com/harshik0007/DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/harshik0007/DSA/tree/master/3731-find-missing-elements) |
 ## Array
@@ -166,6 +167,7 @@ My accepted LeetCode solutions in Java and patterns of question.
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/harshik0007/DSA/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2942-find-words-containing-character](https://github.com/harshik0007/DSA/tree/master/2942-find-words-containing-character) |
 | [2965-find-missing-and-repeated-values](https://github.com/harshik0007/DSA/tree/master/2965-find-missing-and-repeated-values) |
+| [2974-minimum-number-game](https://github.com/harshik0007/DSA/tree/master/2974-minimum-number-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/harshik0007/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/harshik0007/DSA/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/harshik0007/DSA/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
@@ -293,6 +295,7 @@ My accepted LeetCode solutions in Java and patterns of question.
 | [1920-build-array-from-permutation](https://github.com/harshik0007/DSA/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/harshik0007/DSA/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/harshik0007/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2974-minimum-number-game](https://github.com/harshik0007/DSA/tree/master/2974-minimum-number-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/harshik0007/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/harshik0007/DSA/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/harshik0007/DSA/tree/master/3612-process-string-with-special-operations-i) |
@@ -427,6 +430,7 @@ My accepted LeetCode solutions in Java and patterns of question.
 | [0912-sort-an-array](https://github.com/harshik0007/DSA/tree/master/0912-sort-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/harshik0007/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/harshik0007/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2974-minimum-number-game](https://github.com/harshik0007/DSA/tree/master/2974-minimum-number-game) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/harshik0007/DSA/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Enumeration
 |  |
