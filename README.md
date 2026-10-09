@@ -142,6 +142,7 @@ My accepted LeetCode solutions in Java and patterns of question.
 | [1512-number-of-good-pairs](https://github.com/harshik0007/DSA/tree/master/1512-number-of-good-pairs) |
 | [1528-shuffle-string](https://github.com/harshik0007/DSA/tree/master/1528-shuffle-string) |
 | [1539-kth-missing-positive-number](https://github.com/harshik0007/DSA/tree/master/1539-kth-missing-positive-number) |
+| [1550-three-consecutive-odds](https://github.com/harshik0007/DSA/tree/master/1550-three-consecutive-odds) |
 | [1572-matrix-diagonal-sum](https://github.com/harshik0007/DSA/tree/master/1572-matrix-diagonal-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/harshik0007/DSA/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1672-richest-customer-wealth](https://github.com/harshik0007/DSA/tree/master/1672-richest-customer-wealth) |
