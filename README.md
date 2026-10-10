@@ -50,6 +50,7 @@ My accepted LeetCode solutions in Java and patterns of question.
 | [2769-find-the-maximum-achievable-number](https://github.com/harshik0007/DSA/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/harshik0007/DSA/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [2965-find-missing-and-repeated-values](https://github.com/harshik0007/DSA/tree/master/2965-find-missing-and-repeated-values) |
+| [3024-type-of-triangle](https://github.com/harshik0007/DSA/tree/master/3024-type-of-triangle) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/harshik0007/DSA/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/harshik0007/DSA/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/harshik0007/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -82,6 +83,7 @@ My accepted LeetCode solutions in Java and patterns of question.
 | [2089-find-target-indices-after-sorting-array](https://github.com/harshik0007/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/harshik0007/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2974-minimum-number-game](https://github.com/harshik0007/DSA/tree/master/2974-minimum-number-game) |
+| [3024-type-of-triangle](https://github.com/harshik0007/DSA/tree/master/3024-type-of-triangle) |
 | [3536-maximum-product-of-two-digits](https://github.com/harshik0007/DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/harshik0007/DSA/tree/master/3731-find-missing-elements) |
 ## Array
@@ -170,6 +172,7 @@ My accepted LeetCode solutions in Java and patterns of question.
 | [2942-find-words-containing-character](https://github.com/harshik0007/DSA/tree/master/2942-find-words-containing-character) |
 | [2965-find-missing-and-repeated-values](https://github.com/harshik0007/DSA/tree/master/2965-find-missing-and-repeated-values) |
 | [2974-minimum-number-game](https://github.com/harshik0007/DSA/tree/master/2974-minimum-number-game) |
+| [3024-type-of-triangle](https://github.com/harshik0007/DSA/tree/master/3024-type-of-triangle) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/harshik0007/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/harshik0007/DSA/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/harshik0007/DSA/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
@@ -509,4 +512,8 @@ My accepted LeetCode solutions in Java and patterns of question.
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/harshik0007/DSA/tree/master/0204-count-primes) |
+## Polygons
+|  |
+| ------- |
+| [3024-type-of-triangle](https://github.com/harshik0007/DSA/tree/master/3024-type-of-triangle) |
 <!---LeetCode Topics End-->
