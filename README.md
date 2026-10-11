@@ -166,6 +166,7 @@ My accepted LeetCode solutions in Java and patterns of question.
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/harshik0007/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/harshik0007/DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/harshik0007/DSA/tree/master/2574-left-and-right-sum-differences) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/harshik0007/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/harshik0007/DSA/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/harshik0007/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/harshik0007/DSA/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
@@ -444,6 +445,7 @@ My accepted LeetCode solutions in Java and patterns of question.
 | ------- |
 | [0204-count-primes](https://github.com/harshik0007/DSA/tree/master/0204-count-primes) |
 | [1952-three-divisors](https://github.com/harshik0007/DSA/tree/master/1952-three-divisors) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/harshik0007/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/harshik0007/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Greedy
 |  |
