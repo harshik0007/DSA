@@ -371,6 +371,7 @@ My accepted LeetCode solutions in Java and patterns of question.
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/harshik0007/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/harshik0007/DSA/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2942-find-words-containing-character](https://github.com/harshik0007/DSA/tree/master/2942-find-words-containing-character) |
+| [3019-number-of-changing-keys](https://github.com/harshik0007/DSA/tree/master/3019-number-of-changing-keys) |
 | [3110-score-of-a-string](https://github.com/harshik0007/DSA/tree/master/3110-score-of-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/harshik0007/DSA/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/harshik0007/DSA/tree/master/3838-weighted-word-mapping) |
