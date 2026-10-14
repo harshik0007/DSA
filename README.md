@@ -90,6 +90,7 @@ My accepted LeetCode solutions in Java and patterns of question.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/harshik0007/DSA/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/harshik0007/DSA/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/harshik0007/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/harshik0007/DSA/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/harshik0007/DSA/tree/master/0033-search-in-rotated-sorted-array) |
@@ -246,6 +247,7 @@ My accepted LeetCode solutions in Java and patterns of question.
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/harshik0007/DSA/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/harshik0007/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/harshik0007/DSA/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/harshik0007/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -453,6 +455,7 @@ My accepted LeetCode solutions in Java and patterns of question.
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/harshik0007/DSA/tree/master/0011-container-with-most-water) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/harshik0007/DSA/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1903-largest-odd-number-in-string](https://github.com/harshik0007/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Prime Factorization
