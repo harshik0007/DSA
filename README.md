@@ -398,6 +398,7 @@ My accepted LeetCode solutions in Java and patterns of question.
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/harshik0007/DSA/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/harshik0007/DSA/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/harshik0007/DSA/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/harshik0007/DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/harshik0007/DSA/tree/master/0342-power-of-four) |
@@ -524,4 +525,8 @@ My accepted LeetCode solutions in Java and patterns of question.
 |  |
 | ------- |
 | [3024-type-of-triangle](https://github.com/harshik0007/DSA/tree/master/3024-type-of-triangle) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/harshik0007/DSA/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
