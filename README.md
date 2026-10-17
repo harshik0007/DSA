@@ -31,6 +31,7 @@ My accepted LeetCode solutions in Java and patterns of question.
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/harshik0007/DSA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1137-n-th-tribonacci-number](https://github.com/harshik0007/DSA/tree/master/1137-n-th-tribonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/harshik0007/DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/harshik0007/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/harshik0007/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1390-four-divisors](https://github.com/harshik0007/DSA/tree/master/1390-four-divisors) |
 | [1486-xor-operation-in-an-array](https://github.com/harshik0007/DSA/tree/master/1486-xor-operation-in-an-array) |
@@ -535,4 +536,5 @@ My accepted LeetCode solutions in Java and patterns of question.
 | [0021-merge-two-sorted-lists](https://github.com/harshik0007/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/harshik0007/DSA/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/harshik0007/DSA/tree/master/0206-reverse-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/harshik0007/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->
