@@ -262,6 +262,7 @@ My accepted LeetCode solutions in Java and patterns of question.
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harshik0007/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/harshik0007/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/harshik0007/DSA/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/harshik0007/DSA/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/harshik0007/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/harshik0007/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/harshik0007/DSA/tree/master/0349-intersection-of-two-arrays) |
@@ -291,6 +292,7 @@ My accepted LeetCode solutions in Java and patterns of question.
 | ------- |
 | [0020-valid-parentheses](https://github.com/harshik0007/DSA/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/harshik0007/DSA/tree/master/0042-trapping-rain-water) |
+| [0234-palindrome-linked-list](https://github.com/harshik0007/DSA/tree/master/0234-palindrome-linked-list) |
 | [2000-reverse-prefix-of-word](https://github.com/harshik0007/DSA/tree/master/2000-reverse-prefix-of-word) |
 ## Monotonic Stack
 |  |
@@ -404,6 +406,7 @@ My accepted LeetCode solutions in Java and patterns of question.
 | [0050-powx-n](https://github.com/harshik0007/DSA/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/harshik0007/DSA/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/harshik0007/DSA/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/harshik0007/DSA/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/harshik0007/DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/harshik0007/DSA/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/harshik0007/DSA/tree/master/0509-fibonacci-number) |
@@ -536,5 +539,6 @@ My accepted LeetCode solutions in Java and patterns of question.
 | [0021-merge-two-sorted-lists](https://github.com/harshik0007/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/harshik0007/DSA/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/harshik0007/DSA/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/harshik0007/DSA/tree/master/0234-palindrome-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/harshik0007/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->
