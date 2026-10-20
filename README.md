@@ -33,6 +33,7 @@ My accepted LeetCode solutions in Java and patterns of question.
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/harshik0007/DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/harshik0007/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/harshik0007/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/harshik0007/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1390-four-divisors](https://github.com/harshik0007/DSA/tree/master/1390-four-divisors) |
 | [1486-xor-operation-in-an-array](https://github.com/harshik0007/DSA/tree/master/1486-xor-operation-in-an-array) |
 | [1492-the-kth-factor-of-n](https://github.com/harshik0007/DSA/tree/master/1492-the-kth-factor-of-n) |
@@ -430,6 +431,7 @@ My accepted LeetCode solutions in Java and patterns of question.
 | [0476-number-complement](https://github.com/harshik0007/DSA/tree/master/0476-number-complement) |
 | [0693-binary-number-with-alternating-bits](https://github.com/harshik0007/DSA/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/harshik0007/DSA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/harshik0007/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/harshik0007/DSA/tree/master/1486-xor-operation-in-an-array) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/harshik0007/DSA/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 ## Database
