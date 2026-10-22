@@ -408,6 +408,7 @@ My accepted LeetCode solutions in Java and patterns of question.
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/harshik0007/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/harshik0007/DSA/tree/master/0050-powx-n) |
+| [0203-remove-linked-list-elements](https://github.com/harshik0007/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/harshik0007/DSA/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/harshik0007/DSA/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/harshik0007/DSA/tree/master/0234-palindrome-linked-list) |
@@ -546,6 +547,7 @@ My accepted LeetCode solutions in Java and patterns of question.
 | [0083-remove-duplicates-from-sorted-list](https://github.com/harshik0007/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/harshik0007/DSA/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/harshik0007/DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0203-remove-linked-list-elements](https://github.com/harshik0007/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/harshik0007/DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/harshik0007/DSA/tree/master/0234-palindrome-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/harshik0007/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
