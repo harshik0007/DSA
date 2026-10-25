@@ -284,6 +284,7 @@ My accepted LeetCode solutions in Java and patterns of question.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/harshik0007/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/harshik0007/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/harshik0007/DSA/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/harshik0007/DSA/tree/master/0118-pascals-triangle) |
@@ -296,6 +297,7 @@ My accepted LeetCode solutions in Java and patterns of question.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/harshik0007/DSA/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/harshik0007/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/harshik0007/DSA/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/harshik0007/DSA/tree/master/0234-palindrome-linked-list) |
 | [2000-reverse-prefix-of-word](https://github.com/harshik0007/DSA/tree/master/2000-reverse-prefix-of-word) |
@@ -348,6 +350,7 @@ My accepted LeetCode solutions in Java and patterns of question.
 | [0013-roman-to-integer](https://github.com/harshik0007/DSA/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/harshik0007/DSA/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/harshik0007/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/harshik0007/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/harshik0007/DSA/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/harshik0007/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/harshik0007/DSA/tree/master/0151-reverse-words-in-a-string) |
@@ -558,6 +561,7 @@ My accepted LeetCode solutions in Java and patterns of question.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/harshik0007/DSA/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/harshik0007/DSA/tree/master/0032-longest-valid-parentheses) |
 ## Design
 |  |
 | ------- |
