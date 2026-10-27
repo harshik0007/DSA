@@ -134,6 +134,7 @@ My accepted LeetCode solutions in Java and patterns of question.
 | [0977-squares-of-a-sorted-array](https://github.com/harshik0007/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/harshik0007/DSA/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/harshik0007/DSA/tree/master/1122-relative-sort-array) |
+| [1207-unique-number-of-occurrences](https://github.com/harshik0007/DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/harshik0007/DSA/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/harshik0007/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/harshik0007/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -205,6 +206,7 @@ My accepted LeetCode solutions in Java and patterns of question.
 | [0771-jewels-and-stones](https://github.com/harshik0007/DSA/tree/master/0771-jewels-and-stones) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/harshik0007/DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1122-relative-sort-array](https://github.com/harshik0007/DSA/tree/master/1122-relative-sort-array) |
+| [1207-unique-number-of-occurrences](https://github.com/harshik0007/DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/harshik0007/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/harshik0007/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/harshik0007/DSA/tree/master/1512-number-of-good-pairs) |
