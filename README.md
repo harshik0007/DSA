@@ -201,6 +201,7 @@ My accepted LeetCode solutions in Java and patterns of question.
 | [0268-missing-number](https://github.com/harshik0007/DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/harshik0007/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/harshik0007/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0383-ransom-note](https://github.com/harshik0007/DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/harshik0007/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/harshik0007/DSA/tree/master/0389-find-the-difference) |
 | [0771-jewels-and-stones](https://github.com/harshik0007/DSA/tree/master/0771-jewels-and-stones) |
@@ -221,6 +222,7 @@ My accepted LeetCode solutions in Java and patterns of question.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/harshik0007/DSA/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/harshik0007/DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/harshik0007/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/harshik0007/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/harshik0007/DSA/tree/master/1512-number-of-good-pairs) |
@@ -361,6 +363,7 @@ My accepted LeetCode solutions in Java and patterns of question.
 | [0242-valid-anagram](https://github.com/harshik0007/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/harshik0007/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/harshik0007/DSA/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/harshik0007/DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/harshik0007/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/harshik0007/DSA/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/harshik0007/DSA/tree/master/0412-fizz-buzz) |
