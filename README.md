@@ -77,6 +77,7 @@ My accepted LeetCode solutions in Java and patterns of question.
 | [0389-find-the-difference](https://github.com/harshik0007/DSA/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/harshik0007/DSA/tree/master/0414-third-maximum-number) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/harshik0007/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0646-maximum-length-of-pair-chain](https://github.com/harshik0007/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0912-sort-an-array](https://github.com/harshik0007/DSA/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/harshik0007/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/harshik0007/DSA/tree/master/1051-height-checker) |
@@ -132,6 +133,7 @@ My accepted LeetCode solutions in Java and patterns of question.
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/harshik0007/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/harshik0007/DSA/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/harshik0007/DSA/tree/master/0496-next-greater-element-i) |
+| [0646-maximum-length-of-pair-chain](https://github.com/harshik0007/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0704-binary-search](https://github.com/harshik0007/DSA/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/harshik0007/DSA/tree/master/0867-transpose-matrix) |
 | [0896-monotonic-array](https://github.com/harshik0007/DSA/tree/master/0896-monotonic-array) |
@@ -311,6 +313,7 @@ My accepted LeetCode solutions in Java and patterns of question.
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/harshik0007/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0338-counting-bits](https://github.com/harshik0007/DSA/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/harshik0007/DSA/tree/master/0509-fibonacci-number) |
+| [0646-maximum-length-of-pair-chain](https://github.com/harshik0007/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [1137-n-th-tribonacci-number](https://github.com/harshik0007/DSA/tree/master/1137-n-th-tribonacci-number) |
 ## Stack
 |  |
@@ -498,6 +501,7 @@ My accepted LeetCode solutions in Java and patterns of question.
 | ------- |
 | [0011-container-with-most-water](https://github.com/harshik0007/DSA/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/harshik0007/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0646-maximum-length-of-pair-chain](https://github.com/harshik0007/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/harshik0007/DSA/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1903-largest-odd-number-in-string](https://github.com/harshik0007/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Prime Factorization
@@ -590,4 +594,8 @@ My accepted LeetCode solutions in Java and patterns of question.
 |  |
 | ------- |
 | [0707-design-linked-list](https://github.com/harshik0007/DSA/tree/master/0707-design-linked-list) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0646-maximum-length-of-pair-chain](https://github.com/harshik0007/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 <!---LeetCode Topics End-->
