@@ -28,6 +28,7 @@ My accepted LeetCode solutions in Java and patterns of question.
 | [0504-base-7](https://github.com/harshik0007/DSA/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/harshik0007/DSA/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/harshik0007/DSA/tree/master/0509-fibonacci-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/harshik0007/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/harshik0007/DSA/tree/master/0728-self-dividing-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/harshik0007/DSA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1137-n-th-tribonacci-number](https://github.com/harshik0007/DSA/tree/master/1137-n-th-tribonacci-number) |
@@ -77,6 +78,7 @@ My accepted LeetCode solutions in Java and patterns of question.
 | [0389-find-the-difference](https://github.com/harshik0007/DSA/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/harshik0007/DSA/tree/master/0414-third-maximum-number) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/harshik0007/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/harshik0007/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/harshik0007/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0912-sort-an-array](https://github.com/harshik0007/DSA/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/harshik0007/DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -133,6 +135,7 @@ My accepted LeetCode solutions in Java and patterns of question.
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/harshik0007/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/harshik0007/DSA/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/harshik0007/DSA/tree/master/0496-next-greater-element-i) |
+| [0628-maximum-product-of-three-numbers](https://github.com/harshik0007/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/harshik0007/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0704-binary-search](https://github.com/harshik0007/DSA/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/harshik0007/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
