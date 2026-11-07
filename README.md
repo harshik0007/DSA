@@ -135,6 +135,7 @@ My accepted LeetCode solutions in Java and patterns of question.
 | [0496-next-greater-element-i](https://github.com/harshik0007/DSA/tree/master/0496-next-greater-element-i) |
 | [0646-maximum-length-of-pair-chain](https://github.com/harshik0007/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0704-binary-search](https://github.com/harshik0007/DSA/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/harshik0007/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0867-transpose-matrix](https://github.com/harshik0007/DSA/tree/master/0867-transpose-matrix) |
 | [0896-monotonic-array](https://github.com/harshik0007/DSA/tree/master/0896-monotonic-array) |
 | [0912-sort-an-array](https://github.com/harshik0007/DSA/tree/master/0912-sort-an-array) |
@@ -261,6 +262,7 @@ My accepted LeetCode solutions in Java and patterns of question.
 | [0367-valid-perfect-square](https://github.com/harshik0007/DSA/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/harshik0007/DSA/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/harshik0007/DSA/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/harshik0007/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/harshik0007/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/harshik0007/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/harshik0007/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
