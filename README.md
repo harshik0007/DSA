@@ -169,6 +169,7 @@ My accepted LeetCode solutions in Java and patterns of question.
 | [1550-three-consecutive-odds](https://github.com/harshik0007/DSA/tree/master/1550-three-consecutive-odds) |
 | [1572-matrix-diagonal-sum](https://github.com/harshik0007/DSA/tree/master/1572-matrix-diagonal-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/harshik0007/DSA/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/harshik0007/DSA/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/harshik0007/DSA/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/harshik0007/DSA/tree/master/1732-find-the-highest-altitude) |
 | [1748-sum-of-unique-elements](https://github.com/harshik0007/DSA/tree/master/1748-sum-of-unique-elements) |
@@ -406,6 +407,7 @@ My accepted LeetCode solutions in Java and patterns of question.
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/harshik0007/DSA/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
 | [1446-consecutive-characters](https://github.com/harshik0007/DSA/tree/master/1446-consecutive-characters) |
 | [1528-shuffle-string](https://github.com/harshik0007/DSA/tree/master/1528-shuffle-string) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/harshik0007/DSA/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/harshik0007/DSA/tree/master/1678-goal-parser-interpretation) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/harshik0007/DSA/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1768-merge-strings-alternately](https://github.com/harshik0007/DSA/tree/master/1768-merge-strings-alternately) |
