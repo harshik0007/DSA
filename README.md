@@ -92,6 +92,7 @@ My accepted LeetCode solutions in Java and patterns of question.
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/harshik0007/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/harshik0007/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/harshik0007/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/harshik0007/DSA/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/harshik0007/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2974-minimum-number-game](https://github.com/harshik0007/DSA/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/harshik0007/DSA/tree/master/3024-type-of-triangle) |
@@ -191,6 +192,7 @@ My accepted LeetCode solutions in Java and patterns of question.
 | [2089-find-target-indices-after-sorting-array](https://github.com/harshik0007/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/harshik0007/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/harshik0007/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/harshik0007/DSA/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/harshik0007/DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/harshik0007/DSA/tree/master/2574-left-and-right-sum-differences) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/harshik0007/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -241,6 +243,7 @@ My accepted LeetCode solutions in Java and patterns of question.
 | [1796-second-largest-digit-in-a-string](https://github.com/harshik0007/DSA/tree/master/1796-second-largest-digit-in-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/harshik0007/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/harshik0007/DSA/tree/master/2085-count-common-words-with-one-occurrence) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/harshik0007/DSA/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2965-find-missing-and-repeated-values](https://github.com/harshik0007/DSA/tree/master/2965-find-missing-and-repeated-values) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/harshik0007/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/harshik0007/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -358,6 +361,7 @@ My accepted LeetCode solutions in Java and patterns of question.
 | [1920-build-array-from-permutation](https://github.com/harshik0007/DSA/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/harshik0007/DSA/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/harshik0007/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/harshik0007/DSA/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2974-minimum-number-game](https://github.com/harshik0007/DSA/tree/master/2974-minimum-number-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/harshik0007/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/harshik0007/DSA/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
