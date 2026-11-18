@@ -81,6 +81,7 @@ My accepted LeetCode solutions in Java and patterns of question.
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/harshik0007/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/harshik0007/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/harshik0007/DSA/tree/master/0646-maximum-length-of-pair-chain) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/harshik0007/DSA/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0912-sort-an-array](https://github.com/harshik0007/DSA/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/harshik0007/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/harshik0007/DSA/tree/master/1051-height-checker) |
@@ -142,6 +143,7 @@ My accepted LeetCode solutions in Java and patterns of question.
 | [0646-maximum-length-of-pair-chain](https://github.com/harshik0007/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0704-binary-search](https://github.com/harshik0007/DSA/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/harshik0007/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/harshik0007/DSA/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0867-transpose-matrix](https://github.com/harshik0007/DSA/tree/master/0867-transpose-matrix) |
 | [0896-monotonic-array](https://github.com/harshik0007/DSA/tree/master/0896-monotonic-array) |
 | [0912-sort-an-array](https://github.com/harshik0007/DSA/tree/master/0912-sort-an-array) |
