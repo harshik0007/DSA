@@ -208,6 +208,7 @@ My accepted LeetCode solutions in Java and patterns of question.
 | [2974-minimum-number-game](https://github.com/harshik0007/DSA/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/harshik0007/DSA/tree/master/3024-type-of-triangle) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/harshik0007/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/harshik0007/DSA/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/harshik0007/DSA/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/harshik0007/DSA/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/harshik0007/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -249,6 +250,7 @@ My accepted LeetCode solutions in Java and patterns of question.
 | [2085-count-common-words-with-one-occurrence](https://github.com/harshik0007/DSA/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/harshik0007/DSA/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2965-find-missing-and-repeated-values](https://github.com/harshik0007/DSA/tree/master/2965-find-missing-and-repeated-values) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/harshik0007/DSA/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/harshik0007/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/harshik0007/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/harshik0007/DSA/tree/master/3731-find-missing-elements) |
@@ -496,6 +498,7 @@ My accepted LeetCode solutions in Java and patterns of question.
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/harshik0007/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/harshik0007/DSA/tree/master/1486-xor-operation-in-an-array) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/harshik0007/DSA/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/harshik0007/DSA/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Database
 |  |
 | ------- |
