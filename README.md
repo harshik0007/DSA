@@ -65,6 +65,7 @@ My accepted LeetCode solutions in Java and patterns of question.
 | [3658-gcd-of-odd-and-even-sums](https://github.com/harshik0007/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/harshik0007/DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/harshik0007/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3945-digit-frequency-score](https://github.com/harshik0007/DSA/tree/master/3945-digit-frequency-score) |
 ## Sorting
 |  |
 | ------- |
@@ -254,6 +255,7 @@ My accepted LeetCode solutions in Java and patterns of question.
 | [3471-find-the-largest-almost-missing-integer](https://github.com/harshik0007/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/harshik0007/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/harshik0007/DSA/tree/master/3731-find-missing-elements) |
+| [3945-digit-frequency-score](https://github.com/harshik0007/DSA/tree/master/3945-digit-frequency-score) |
 ## Counting
 |  |
 | ------- |
