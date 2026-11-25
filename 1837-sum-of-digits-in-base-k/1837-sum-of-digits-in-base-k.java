@@ -1,14 +1,18 @@
 class Solution {
     public int sumBase(int n, int k) {
-        int number = 0;
-        int sum = 0;
+        int kBase = 0;
         while(n > 0){
-            int last_dig = n%k;
-            number = number*10+last_dig;
-            n = n / k;
-            sum += last_dig;
+            int baseResult = n % k;
+            kBase = kBase * 10 + baseResult;
+            n /= k;
         }
-        return sum;
 
+        int sunBaseAns = 0;
+        while(kBase > 0){
+            sunBaseAns += kBase % 10;
+            kBase /= 10;
+        }
+
+        return sunBaseAns;
     }
 }
