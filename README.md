@@ -61,6 +61,7 @@ My accepted LeetCode solutions in Java and patterns of question.
 | [3232-find-if-digit-game-can-be-won](https://github.com/harshik0007/DSA/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/harshik0007/DSA/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/harshik0007/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3360-stone-removal-game](https://github.com/harshik0007/DSA/tree/master/3360-stone-removal-game) |
 | [3536-maximum-product-of-two-digits](https://github.com/harshik0007/DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/harshik0007/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/harshik0007/DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -376,6 +377,7 @@ My accepted LeetCode solutions in Java and patterns of question.
 | [2974-minimum-number-game](https://github.com/harshik0007/DSA/tree/master/2974-minimum-number-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/harshik0007/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/harshik0007/DSA/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3360-stone-removal-game](https://github.com/harshik0007/DSA/tree/master/3360-stone-removal-game) |
 | [3612-process-string-with-special-operations-i](https://github.com/harshik0007/DSA/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/harshik0007/DSA/tree/master/3838-weighted-word-mapping) |
 | [3925-concatenate-array-with-reverse](https://github.com/harshik0007/DSA/tree/master/3925-concatenate-array-with-reverse) |
