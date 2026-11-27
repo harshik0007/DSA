@@ -51,6 +51,7 @@ My accepted LeetCode solutions in Java and patterns of question.
 | [2119-a-number-after-a-double-reversal](https://github.com/harshik0007/DSA/tree/master/2119-a-number-after-a-double-reversal) |
 | [2235-add-two-integers](https://github.com/harshik0007/DSA/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/harshik0007/DSA/tree/master/2413-smallest-even-multiple) |
+| [2427-number-of-common-factors](https://github.com/harshik0007/DSA/tree/master/2427-number-of-common-factors) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/harshik0007/DSA/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/harshik0007/DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/harshik0007/DSA/tree/master/2652-sum-multiples) |
@@ -519,6 +520,7 @@ My accepted LeetCode solutions in Java and patterns of question.
 | [1952-three-divisors](https://github.com/harshik0007/DSA/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/harshik0007/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/harshik0007/DSA/tree/master/2413-smallest-even-multiple) |
+| [2427-number-of-common-factors](https://github.com/harshik0007/DSA/tree/master/2427-number-of-common-factors) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/harshik0007/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Heap (Priority Queue)
 |  |
@@ -533,6 +535,7 @@ My accepted LeetCode solutions in Java and patterns of question.
 | ------- |
 | [0204-count-primes](https://github.com/harshik0007/DSA/tree/master/0204-count-primes) |
 | [1952-three-divisors](https://github.com/harshik0007/DSA/tree/master/1952-three-divisors) |
+| [2427-number-of-common-factors](https://github.com/harshik0007/DSA/tree/master/2427-number-of-common-factors) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/harshik0007/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/harshik0007/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Greedy
@@ -638,4 +641,12 @@ My accepted LeetCode solutions in Java and patterns of question.
 |  |
 | ------- |
 | [0646-maximum-length-of-pair-chain](https://github.com/harshik0007/DSA/tree/master/0646-maximum-length-of-pair-chain) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/harshik0007/DSA/tree/master/2427-number-of-common-factors) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/harshik0007/DSA/tree/master/2427-number-of-common-factors) |
 <!---LeetCode Topics End-->
